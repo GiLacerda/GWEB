@@ -1,7 +1,7 @@
 <nav id="menu-h" class="main_header container">
     <div class="content">
         <div class="main_header_logo" >
-            <a href="./index.php" title="G-Web"><img src="./pictures/icon.png" alt="Icone G-Web" title="G-Web"/></a>
+            <a href="./index.php" title="G-Web"><img src="./pictures/icon.png" class="icon" alt="Icone G-Web" title="G-Web" style="height: 60px;"/></a>
         </div>
         <div class="icon icon-menu mobile_action"></div>
         <ul class="main_header_nav">
