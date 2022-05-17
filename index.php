@@ -1,3 +1,4 @@
+<?php require_once "./config.php"; session_start();?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <?php include "./head.php"; ?>
