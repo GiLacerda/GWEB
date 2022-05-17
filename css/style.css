@@ -40,32 +40,33 @@ COPIA E COLA DO SITE
 
 /*MENU*/
 #menu-h {
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     text-align: right;
 }
 
-#menu-h ul {
-    max-width: 800px;
+#menu-h .main_header_nav {
+    max-width: 100%;
     list-style: none;
     padding: 0;
 }
 
-#menu-h ul li {
+#menu-h .main_header_nav .main_header_nav_item {
     display: inline;
 }
 
-#menu-h ul li a {
+#menu-h .main_header_nav .main_header_nav_item .scrollSuave {
     color: #153B55;
-    padding: 20px;
+    padding: 13px;
+    font-size: 16px;
     display: inline-block;
     text-decoration: none;
     transition: background .4s;
     border-bottom-width: 3px;
     border-bottom-style: solid;
-    border-bottom-color: #FFFFFF;
+    border-bottom-color: #ffffff
 }
 
-#menu-h ul li a:hover {
+#menu-h .main_header_nav .main_header_nav_item .scrollSuave:hover {
     color: #153B55;
     transition: border .4s;
     border-bottom-color: #153B55;
